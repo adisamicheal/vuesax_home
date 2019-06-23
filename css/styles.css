@@ -35,6 +35,23 @@ a, a:hover, a:focus {
     margin: 40px 0;
 }
 
+/*navbar_top styles*/
+
+.navbar_top {
+  background: #ffffff;
+  width: auto;
+  height: 62px;
+}
+.navbar_menu {
+  list-style: none;
+  display: flex;
+  margin-bottom: 0px;
+  padding-left: 0px;
+}
+.navbar_top_right{
+    float: right;
+}
+
 /* ---------------------------------------------------
     SIDEBAR STYLE
 ----------------------------------------------------- */
